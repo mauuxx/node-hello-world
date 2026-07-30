@@ -140,7 +140,7 @@ metadata:
     managed-by: portainer-run
 spec:
   rules:
-    - host: hw.k8s-app.fcn.applications/persons
+    - host: helloW.k8s-app.fcn.applications/persons
       http:
         paths:
           - path: /
